@@ -35,8 +35,7 @@ const CONTACT = {
 };
 
 // 🧠 Intro breve
-const ABOUT = `Especialista en marketing digital y growth con foco en resultados medibles. Desarrollo webs,
-automatizaciones y funnels; gestiono contenido y marketplaces; y escalo audiencias con inversión eficiente.`;
+const ABOUT = `Tras nuestra entrevista, he preparado este resumen con cuatro proyectos destacados en los que he trabajado recientemente. Por confidencialidad no puedo mostrar todos los datos, pero aquí verás de forma clara los objetivos, acciones y resultados conseguidos.`;
 
 // 📁 Proyectos (edita URLs y media)
 const PROJECTS = [
