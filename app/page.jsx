@@ -45,8 +45,8 @@ const PROJECTS = [
     subtitle: "Pinturas, adhesivos, bricolaje; social + marketplaces",
     objective: "Crecer audiencia en TikTok y generar ventas directas en marketplaces.",
     actions: [
-      "Producción masiva de contenido (360+ vídeos/mes)",
-      "Crecimiento orgánico + inversión en ads de 500€",
+      "Producción masiva de contenido (100+ vídeos/mes)",
+      "Crecimiento orgánico + inversión en ads de +500€",
       "Gestión integral de Amazon, Miravia y AliExpress",
       "Coordinación de diseño con equipos en CN/ES/AR",
     ],
