@@ -140,7 +140,6 @@ media: [
   ],
   media: [
     { type: "image", src: "/feed.jpg", caption: "Gestión de redes sociales y branding" },
-  { type: "image", src: "/promocio.png", caption: "Promociones digitales y RRPP" },
   ],
 },
 
