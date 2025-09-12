@@ -35,7 +35,7 @@ const CONTACT = {
 };
 
 // 🧠 Intro breve
-const ABOUT = `Tras nuestra entrevista, he preparado este resumen con cuatro proyectos destacados en los que he trabajado recientemente. Por confidencialidad no puedo mostrar todos los datos, pero aquí verás de forma clara los objetivos, acciones y resultados conseguidos.`;
+const ABOUT = `Especialista en TikTok y Social Media con experiencia en la creación y gestión de estrategias digitales que impulsan visibilidad, engagement y ventas. Experto en producción de contenido nativo, tendencias virales y optimización de campañas para marcas y proyectos creativos. Perfil versátil que combina visión estratégica, creatividad y análisis de datos para lograr resultados medibles en entornos digitales competitivos.`;
 
 // 📁 Proyectos (edita URLs y media)
 const PROJECTS = [
@@ -371,25 +371,14 @@ export default function Portfolio() {
       </Section>
 
       {/* CTA */}
-      <Section id="contact" className="py-16 md:py-24">
-  <div className="rounded-3xl p-10 md:p-14 text-center border" style={{ borderColor: COLORS.border, background: COLORS.card }}>
-    <h3 className="text-3xl md:text-4xl font-semibold mb-4" style={{ color: COLORS.text }}>
-      Para terminar...
-    </h3>
-    <p className="max-w-2xl mx-auto text-lg mb-8" style={{ color: COLORS.muted }}>
-      Veo en Hermanos Manuel Crespo un entorno ideal para seguir aprendiendo y desarrollándome en un 
-  sector nuevo para mí, mientras pongo en práctica mi experiencia en marketing digital y gestión de 
-  proyectos. Mi objetivo es aportar valor al equipo a la vez que crezco junto a la empresa.
-    </p>
-  </div>
-</Section>
+     
 
 
       <footer className="py-10">
         <Section>
           <div className="flex items-center justify-between text-sm" style={{ color: COLORS.muted }}>
             <span>© {new Date().getFullYear()} Álvaro Brotons</span>
-            <span>Dossier creado para HMC - Antonio N.</span>
+            <span>Portfolio Álvaro Brotons.</span>
           </div>
         </Section>
       </footer>
